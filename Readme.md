@@ -7,7 +7,7 @@
 ## 🎯 Features
 
 - **Become a Manager:** Any user can opt to become the lottery manager, responsible for selecting the winner.
-- **Join as a Player:** Users can enter the lottery by contributing a small amount of GAS (e.g., 0.01 GAS).
+- **Join as a Player:** Users can enter the lottery by contributing a small amount of EDU (e.g., 0.01 EDU).
 - **Random Winner Selection:** The smart contract selects a random winner from the participants, ensuring fairness.
 - **Transparent History:** Displays the latest winner on the frontend after every round.
 
@@ -33,7 +33,7 @@
    - The manager has the exclusive right to pick a winner.
 
 2. **Joining the Lottery:**
-   - Players enter the lottery by sending 0.01 GAS through the "Join as Player" button.
+   - Players enter the lottery by sending 0.01 EDU through the "Join as Player" button.
    - Each player's address is stored in the contract.
 
 3. **Selecting a Winner:**
@@ -51,7 +51,7 @@
    - Limited to one manager per round.
 
 2. **Players:**
-   - Join the lottery with 0.01 GAS.
+   - Join the lottery with 0.01 EDU.
    - Can win the entire prize pool.
 
 ---
